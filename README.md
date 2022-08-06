@@ -32,3 +32,4 @@ at the end of the (bashrc) file add the follwing line (source /home/wesam/catkin
 
 9- run RViz (roslaunch robot_arm_pkg check_motors.launch)
 
+![](robot%20arm.png)
